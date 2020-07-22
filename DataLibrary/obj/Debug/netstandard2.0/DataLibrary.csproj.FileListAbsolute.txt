@@ -1,0 +1,9 @@
+D:\Repositórios\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.deps.json
+D:\Repositórios\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.dll
+D:\Repositórios\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.csproj.CoreCompileInputs.cache
+D:\Repositórios\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.AssemblyInfoInputs.cache
+D:\Repositórios\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.AssemblyInfo.cs
+D:\Repositórios\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\netstandard2.0\DataLibrary.pdb
+D:\Repositórios\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.dll
+D:\Repositórios\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.pdb
+D:\Repositórios\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\netstandard2.0\DataLibrary.csprojAssemblyReference.cache

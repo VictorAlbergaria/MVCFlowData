@@ -1,0 +1,10 @@
+D:\Repositórios\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+D:\Repositórios\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+D:\Repositórios\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+D:\Repositórios\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\Model.xml
+D:\Repositórios\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\refactor.xml
+D:\Repositórios\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\postdeploy.sql
+D:\Repositórios\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\predeploy.sql
+D:\Repositórios\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+D:\Repositórios\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.pdb
+D:\Repositórios\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.sqlprojAssemblyReference.cache
